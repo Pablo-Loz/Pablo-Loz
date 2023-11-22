@@ -16,8 +16,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pab-Loz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pab-Loz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-### Get in Touch! 📬
-<Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/pablo-lozano" target="blank"><img align="center" src="https://img.shields.io/badge/pablo-lozano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/pablolozanoinformatica@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Pab-Loz" target="blank"><img align="center" src="https://img.shields.io/badge/Pab-Loz-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
