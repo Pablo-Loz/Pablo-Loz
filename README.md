@@ -71,7 +71,3 @@ Tengo experiencia gestionando el ciclo de vida completo de proyectos técnicos: 
   <i>"Transformando procesos complejos en soluciones digitales sencillas."</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pab-Loz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pab-Loz&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
-</p>
